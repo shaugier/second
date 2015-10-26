@@ -1,3 +1,3 @@
 git is a distribute version control system
-git is free software
+git is an open source free software
 you've been in a vocation
