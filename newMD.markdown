@@ -4,5 +4,6 @@ creating a new branch is quick and simple
 branch manage strategy
 test  --no-ff
 test bob
+git is a free software
 
 #end
