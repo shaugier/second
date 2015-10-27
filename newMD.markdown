@@ -1,4 +1,5 @@
 # gittest
 test branch dev and branch master
-creating a new branch is q&s
+creating a new branch is quick and simple
+
 #end
